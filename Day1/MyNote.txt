@@ -1,0 +1,3 @@
+i == em: <i>italic<i/> tag mean italic & alternative Holo emphasis <em> Emphasis </em>
+b == strong: <b>Bold<b/> tag mane Bold & alternative <strong> Bold <strong/>
+ul: Unorder list like . . . . . ! ol: Order list like 1 2 3 4 5 6 ! order r unorder list er vitore list item rakha hoy ja <li> tag diye bojai. 
